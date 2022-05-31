@@ -23,5 +23,7 @@ Atualmente estudo análise e desenvolvemento de sistemas, em busca de conhecimen
 
 - Curso de HMTL, CSS e JavaScript - Plataforma Udemy.<br>
 - Curso de JavaScript - Curso em Vídeo (Gustavo Guanabara)<br>
+- Introdução ao MySQL - Cruso em Vídeo (Gustavo Guanabara)<br> 
 - Aprofundando conhecimento em Git e GitHub - Youtube (Sujeito Programador)<br>
+- BootCamp Decola - Em andanmento <br>
 </div>
